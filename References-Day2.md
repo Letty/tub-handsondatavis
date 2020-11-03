@@ -10,3 +10,5 @@ S. 49 - https://www.nytimes.com/interactive/2015/01/09/sports/the-dawn-wall-el-c
 S. 50 - https://dnbvis.fh-potsdam.de/
 S. 85-86 - https://www.researchgate.net/publication/317266613_Visual_Variables
 S. 87 - https://datavizproject.com/
+
+Nur gezeigt - http://www3.weforum.org/docs/GCR2017-2018/05FullReport/TheGlobalCompetitivenessReport2017%E2%80%932018.pdf
